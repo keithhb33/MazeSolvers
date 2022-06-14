@@ -1,6 +1,6 @@
 from copy import deepcopy
 import cv2
-#Create 2d maze array
+
 
 #Identify maze pixel dimensions (10x10 pixel maze)
 rows = 6
