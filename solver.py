@@ -2,7 +2,7 @@ from copy import deepcopy
 import cv2
 
 
-#Identify maze pixel dimensions (10x10 pixel maze)
+#Identify maze pixel dimensions (6x4 pixel maze)
 rows = 6
 columns = 4
 
